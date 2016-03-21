@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+	a .git/directory and some files was created, to record git changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	cache
+
