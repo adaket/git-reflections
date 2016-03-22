@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	fork just on GitHub, with links back to original
 	clone is from remote to local
 	branches is several commit lines
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	compare and merge
